@@ -6,3 +6,4 @@ CSE student passionate about building, breaking and learning.
 > Building projects consistently.
 > Exploring open source and bug bounty.
 > Always open to learning and collaborating.
+> Always curious about new tech.
