@@ -5,6 +5,7 @@ Topics Learned:
 - Data Types
 - Input / Output
 - Basic Arithmetic
+- Printing concepts
 
 Problems Solved: 15
 
