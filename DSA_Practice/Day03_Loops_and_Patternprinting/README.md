@@ -1,8 +1,8 @@
 # 🔁 C++ Loops Foundation Set (10 Questions)
 
-This repository contains my solutions to a **10-question C++ Loops Foundation Set** designed to build a strong base before moving to **Pattern Printing, Arrays, and DSA**.
+This repository contains my solutions to a **30-question C++ Loops & Pattern_Printing Foundation Set** designed to build a strong base before moving to **Arrays, and DSA**.
 
-The set covers all fundamental loop concepts including: ($ containing questions are very important)
+The set covers all fundamental loop concepts including: 
 
 - `for` loop
 - `while` loop
@@ -17,35 +17,6 @@ The set covers all fundamental loop concepts including: ($ containing questions 
 
 ---
 
-## 📚 Question List
-
-### 🟢 Easy
-
-| # | Problem | Concepts |
-|---|---------|----------|
-| 1 | Sum of Even Numbers | `for` loop, conditionals |
-| 2 | Reverse Counting | `while` loop | -----------------------------> $
-
-### 🟡 Medium
-
-| # | Problem | Concepts |
-|---|---------|----------|
-| 3 | Count Even, Odd, Positive, and Negative Numbers | counting, conditionals |
-| 4 | Sum of Digits | digit extraction, `while` loop |
-| 5 | Reverse a Number | modulus `%`, division `/` |-------------------------------------> $
-| 6 | Skip Multiples of 3 | `continue` | ------------------------> $
-| 7 | Multiplication Table Generator | nested loops |-----------------------> $
-
-### 🔴 Hard
-
-| # | Problem | Concepts |
-|---|---------|----------|
-| 8 | Prime Numbers in a Range | nested loops, optimization, `continue` |
-| 9 | First Number Divisible by Both 7 and 13 | infinite loop, `break` |---------------> $
-|10 | Strong Number Checker | nested loops, factorial, digit manipulation |----------------------> $
-
----
-
 ## 🧠 Concepts Practiced
 
 - Loop syntax and control flow
@@ -57,14 +28,18 @@ The set covers all fundamental loop concepts including: ($ containing questions 
 - Digit-wise operations
 - Factorial computation
 - `break` and `continue` statements
+- Advance loops and pattern printing problems
+- Leant various concepts regarding iterators involving 
+i and j
+- Learnt how to think of logic and implement the logic to the code 
+- This will help (logic building) further in arrays and DSA
 
 ---
 
 ## 🎯 Goal
 
-The purpose of this set is to create a **solid foundation in loops** before beginning:
+The purpose of this set is to create a **solid foundation in loops and patterns** before beginning:
 
-- ⭐ Pattern Printing
 - 📦 Arrays
 - 🔍 Searching & Sorting
 - 🌲 Recursion
@@ -96,5 +71,10 @@ The purpose of this set is to create a **solid foundation in loops** before begi
 ## 💪 Next Step
 
 ➡️ **Pattern Printing Set (Level 1)**
+- [x] Q11 - Upside_down Triangle
+- [x] Q12 - Floyd's Triangle
+- [x] Q13 - Binary right Triangle
+- [x] Q14 - Upside_down Triangle Typecasting
+- [x] Q15 - Advance Triangle Printing
 
 This repository is part of my **C++ + DSA preparation journey**.

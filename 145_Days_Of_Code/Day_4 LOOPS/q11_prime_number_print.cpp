@@ -15,4 +15,6 @@ int main(){
         if(flag == true) cout<<i<<" ";
     }
 }
-        
+        // inner for loop checks whether the particular i is composite or not agar number i composite hota hai
+        // then flag ko false assign karke loop break kardo 
+        //then new i jab start hoga then again flag ko true kardo.
