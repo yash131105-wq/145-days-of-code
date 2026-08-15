@@ -84,5 +84,7 @@ The purpose of this set is to create a **solid foundation in loops and patterns*
 - [x] Q21 - Parallelogram Pattern
 - [x] Q22 - Alphabet Star Triangle Printing
 - [x] Q23 - Star Plus Pattern Printing
+- [x] Q24 - Mast Pattern Printing
+- [x] Q25 - Character Special Pyramid Printing
 
 This repository is part of my **C++ + DSA preparation journey**.
