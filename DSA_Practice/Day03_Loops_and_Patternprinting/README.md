@@ -86,5 +86,15 @@ The purpose of this set is to create a **solid foundation in loops and patterns*
 - [x] Q23 - Star Plus Pattern Printing
 - [x] Q24 - Mast Pattern Printing
 - [x] Q25 - Character Special Pyramid Printing
+- [x] Q26 - Star Diamond Pattern Printing
+- [x] Q27 - Star Pattern Mast
+- [x] Q28 - Star Pattern Mast Number
+- [x] Q29 - Star Pattern Mast Alphabet
+- [x] Q30 - Star Pattern Mast Rev Number
+- [x] Q31 - Numerical Rectangular Pattern
+- [x] Q32 - Sum Pattern Printing
+- [x] Q33 - Power Function Loop Printing
+- [x] Q34 - Alphabet Printing Loop
+- [x] Q35 - Composite Loop Printing
 
 This repository is part of my **C++ + DSA preparation journey**.

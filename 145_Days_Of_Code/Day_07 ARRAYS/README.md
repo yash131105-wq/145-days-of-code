@@ -22,7 +22,4 @@ Status: Completed
 
 
 
- - pattern printing ka poora notes frm both notes.
- - functions ka first notes.
- - array ka notes frm first.
- - array+vector+twoPointers+prefixSum+2D_arrays+Rotation_of_arrays (till Time Complexity).
+ 
