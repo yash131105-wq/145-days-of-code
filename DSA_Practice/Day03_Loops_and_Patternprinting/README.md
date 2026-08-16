@@ -96,5 +96,5 @@ The purpose of this set is to create a **solid foundation in loops and patterns*
 - [x] Q33 - Power Function Loop Printing
 - [x] Q34 - Alphabet Printing Loop
 - [x] Q35 - Composite Loop Printing
-
+ `DONE PRACTICING THE PATTERNS AND LOOPS QUESTIONS AND NOW I'M READY FOR ENTERING INTO THE WORLD OF DSA`
 This repository is part of my **C++ + DSA preparation journey**.
