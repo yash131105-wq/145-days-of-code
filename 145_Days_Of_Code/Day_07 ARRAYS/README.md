@@ -16,7 +16,7 @@
 - Current Topic: 10
 - Revision: 5
 
-Total: 15
+Total: 15 .
 
 Status: Completed
 
