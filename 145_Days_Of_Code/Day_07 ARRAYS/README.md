@@ -17,6 +17,7 @@
 - Revision: 5
 - There will be more problems related to arrays and array manipulation just hang on
 - Also will start doing the problems frm tomorrow and be brutally consistent 
+- (nothing much bro just vibing with the breeze and appreciating the life)
 
 Total: 15 .
 
